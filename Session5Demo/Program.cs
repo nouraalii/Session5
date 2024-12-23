@@ -282,6 +282,7 @@ namespace Session5Demo
             //DoSumProtectiveCode(); 
             #endregion
 
+
             //Class Library
             //TypeA typeA = new TypeA() // invalid typeA 
             //    typeA.X = 12; //Invalid X is Private
